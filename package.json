@@ -11,13 +11,13 @@
   "author": "tsubasa",
   "repository": {
     "type": "git",
-    "url": "https://github.com/polar-bears/pivotjs.git"
+    "url": "https://github.com/tsubasatmd/pivotjs.git"
   },
   "dependencies": {
     "lodash": "^4.11.1"
   },
   "bugs": {
-    "url": "https://github.com/polar-bears/pivotjs/issues"
+    "url": "https://github.com/tsubasatmd/pivotjs/issues"
   },
   "license": "MIT",
   "devDependencies": {
